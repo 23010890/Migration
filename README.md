@@ -1,7 +1,7 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-### NAME: AJINA JOSHPIN
-### REG NO: 212223230008
+### NAME: DHARSHINI S
+### REG NO: 212223110010
 
 ## Aim:
 To move the files between virtual machine.
